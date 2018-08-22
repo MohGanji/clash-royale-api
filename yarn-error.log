@@ -1,0 +1,32 @@
+Arguments: 
+  /usr/local/bin/node /usr/share/yarn/bin/yarn.js add jsonwebtoken
+
+PATH: 
+  /home/m0hammad/Archive/Uni/OS-Fall96/Projects/pintos/src/utils:~/.cabal/bin:/opt/cabal/1.22/bin:/opt/ghc/7.10.3/bin:/home/m0hammad/Archive/Uni/OS-Fall96/Projects/pintos/src/utils:~/.cabal/bin:/opt/cabal/1.22/bin:/opt/ghc/7.10.3/bin:"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-9-oracle/bin:/usr/lib/jvm/java-9-oracle/db/bin:/usr/local/bin"://home/m0hammad/Apps/redis/src://home/m0hammad/Apps/redis/src
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  9.3.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  SyntaxError: /home/m0hammad/Git/clash-royale-api/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/share/yarn/lib/cli.js:770:59
+      at Generator.next (<anonymous>)
+      at step (/usr/share/yarn/lib/cli.js:92:30)
+      at /usr/share/yarn/lib/cli.js:103:13
+      at <anonymous>
