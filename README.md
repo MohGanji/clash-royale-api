@@ -1,6 +1,7 @@
 # clash-royale-api
 
-clash royale has given out a public API and I want to play with it to see what I can create with it.
+clash royale has given out a public API,
+So I'm trying to collect some data about top players and my clan members to do some analysis on them and use them for clan management!
 
 ## TODO
 
